@@ -4,3 +4,7 @@ body{
 div{
 	border: 1px;
 }
+page-header__logo {
+  width: 100%;
+  max-width: 1000px;
+}
